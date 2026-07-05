@@ -1,0 +1,56 @@
+{
+  "db_categories": ["عطور عودية", "عطور زهورية", "عطور شرقية", "عطور منعشة", "عطور خشبية"],
+  "db_products": [
+    {
+      "id": "p1",
+      "name": "عطر عود ملكي فاخر",
+      "price": 45000,
+      "category": "عطور عودية",
+      "desc": "عطر عودي فاخر بعبق تدوم طويلاً. مزيج من خشب العود والمسك والعنبر.",
+      "images": ["https://images.unsplash.com/photo-1541643600914-78b084683702?auto=format&fit=crop&q=80&w=800"],
+      "keywords": ["عود", "ملكي", "ثقيل", "شتوي"],
+      "sizes": [
+        {
+          "ml": "عطر كامل",
+          "price": 45000,
+          "image": "https://images.unsplash.com/photo-1541643600914-78b084683702?auto=format&fit=crop&q=80&w=800",
+          "isDefault": true
+        }
+      ]
+    },
+    {
+      "id": "p2",
+      "name": "عطر ورد وعنبر رومانسي",
+      "price": 38000,
+      "category": "عطور زهورية",
+      "desc": "باقة زهورية رقيقة من الورد والياسمين مع خاتمة مسكية دافئة.",
+      "images": ["https://images.unsplash.com/photo-1588405748880-12d1d2a59f75?auto=format&fit=crop&q=80&w=800"],
+      "keywords": ["ورد", "ياسمين", "مسك", "رومانسي", "بارد", "صيفي"],
+      "sizes": [
+        {
+          "ml": "عطر كامل",
+          "price": 38000,
+          "image": "https://images.unsplash.com/photo-1588405748880-12d1d2a59f75?auto=format&fit=crop&q=80&w=800",
+          "isDefault": true
+        }
+      ]
+    },
+    {
+      "id": "p3",
+      "name": "عطر عربي شرقي فاخر",
+      "price": 52000,
+      "category": "عطور شرقية",
+      "desc": "تركيبة شرقية أصيلة من المسك والزعفران والخشب الفاخر.",
+      "images": ["https://images.unsplash.com/photo-1615634260167-c8cdede054de?auto=format&fit=crop&q=80&w=800"],
+      "keywords": ["شرقي", "عنبر", "مسك", "زعفران", "دافئ"],
+      "sizes": [
+        {
+          "ml": "عطر كامل",
+          "price": 52000,
+          "image": "https://images.unsplash.com/photo-1615634260167-c8cdede054de?auto=format&fit=crop&q=80&w=800",
+          "isDefault": true
+        }
+      ]
+    }
+  ]
+}
